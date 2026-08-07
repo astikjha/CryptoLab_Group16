@@ -1,0 +1,2 @@
+Computer security protects information and computer systems.
+Cryptography is an important component of cybersecurity.

@@ -1,0 +1,2 @@
+This is a sample dataset for the CryptoLabX toolkit.
+Future assignments will implement classical cryptographic algorithms.
