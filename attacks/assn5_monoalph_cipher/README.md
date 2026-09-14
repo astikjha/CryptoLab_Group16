@@ -2,7 +2,7 @@
 
 **Group Number:** 16
 **Implementation Language:** C++ (`std=c++17`)  
-**Dataset Reference:** *Modern Cryptography* by Katz & Lindell (Excerpt from Page 42, calculated using formula: $\text{Group Number} + 30$)
+**Dataset Reference:** *Modern Cryptography* by Katz & Lindell (Excerpt from Page 46, calculated using formula: $\text{Group Number} + 30$)
 
 ---
 
